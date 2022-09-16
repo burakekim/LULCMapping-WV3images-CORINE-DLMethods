@@ -12,10 +12,6 @@ The framework of this study is detailed as follow.
 
 ![alt text](flowchart_lulc.png)
 
-LULC classes used in this study
-----------------------
-![alt text](LULCclasses.jpg)
-
 Sample Outputs
 ---------------------
 ![alt text](outputs_0.png)
